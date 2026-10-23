@@ -106,7 +106,7 @@ Get-FileHash -Algorithm SHA256 .\net10.rar
 
 ご支援は**完全に任意**です。寄付をしなくても、配布物や公開情報をご利用いただけます。リポジトリに Star を付ける、プロジェクトを共有する、不具合を報告することも活動の励みになります。
 
-- [Ko-fi — sakai38666](https://ko-fi.com/sakai38666)
+- [Ko-fi 支援](https://ko-fi.com/sakai38666)
 - [支援についてのご案内](https://wezard4u.tistory.com/6259)
 
 ## ライセンス・権利表記
